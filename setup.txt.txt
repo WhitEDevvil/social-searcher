@@ -1,0 +1,13 @@
+firts open xmapp->admin->start; xmapp->mysql->start->admin //
+
+next create the database with name used to connect with the login form,
+import the database and seed it correctly.
+
+unzip the downloaded file and copy all the files inside that folder,
+GoTo ..c:\xampp\htdocs\#create a new file and then paste the copied files inside it. 
+
+open the same browser were the phpMySQL server is started 
+
+Open newtab type the following--> localhost\#folder_name\index.php
+
+All set Now you can able to login and register. 
